@@ -94,5 +94,5 @@ int main() {
 
 ## RESULT
 
-Thus,to implement the Vigenere Cipher substitution technique using C program is executed sucessfully.
+Thus,to implement the Vigenere Cipher substitution technique using C program is executed successfully.
 
